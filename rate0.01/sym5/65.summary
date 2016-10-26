@@ -1,0 +1,10 @@
+gp120sim/rate0.01/sym5/65.ma.json 0.0101325 0.0116557
+gp120sim/rate0.01/sym5/65.ma.tree.json 0.0107526 0.0119297
+gp120sim/rate0.01/sym5/65.hist.json 0.0123453 0.011449
+gp120sim/rate0.01/sym5/65.histrec.json 0.0122206 0.00989611
+gp120sim/rate0.01/sym5/65.histref.json 0.012518 0.0101932
+gp120sim/rate0.01/sym5/65.histslow.json 0.0127488 0.0121324
+gp120sim/rate0.01/sym5/65.histfit.json 0.0133052 0.00926447
+gp120sim/rate0.01/sym5/65.muscle.json 0.00928879 0.0127682
+gp120sim/rate0.01/sym5/65.probcons.json 0.0113779 0.0104748
+gp120sim/rate0.01/sym5/65.prank.json 0.0106489 0.0131474
