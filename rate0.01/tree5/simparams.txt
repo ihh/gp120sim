@@ -1,0 +1,1 @@
+-preset dayhoff -gaprate 0.01 -gapextprob 0.68
