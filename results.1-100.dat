@@ -1,4 +1,4 @@
-event method rate tree multiplier lower median upper
+method lower median upper
 ins ma 0.005 sym 5 0.0 0
 ins ma 0.005 sym 5 0.10 0
 ins ma 0.005 sym 5 0.20 0
