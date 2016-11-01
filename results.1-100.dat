@@ -1,4 +1,4 @@
-method lower median upper
+event method rate tree multiplier bin count
 ins ma 0.005 sym 5 0.0 0
 ins ma 0.005 sym 5 0.10 0
 ins ma 0.005 sym 5 0.20 0
